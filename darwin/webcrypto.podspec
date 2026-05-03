@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'webcrypto'
-  s.version          = '1.0.6' # Bypass version internal 0.1.1
+  s.version          = '1.0.7' # Bypass version internal 0.1.1
   s.summary          = 'Security research placeholder for webcrypto.'
   s.description      = <<-DESC
 This is a security research placeholder for the webcrypto library to prevent unauthorized dependency confusion. 
